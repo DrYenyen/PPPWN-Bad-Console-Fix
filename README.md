@@ -6,6 +6,9 @@
   
 # How to use  
 **This is used the same way like before the C++ edit was made just have the offsets and correct stage 1 and 2 bins in their usual sub folders and goldhen.bin on a usb if it doesnt crash**    
+```
+python3 pppwn.py --interface= --fw=
+```    
 python3 pppwn.py --interface= --fw=  add your ethernet adapter name after the --interface= and your firmware after the --fw=    
   
 
